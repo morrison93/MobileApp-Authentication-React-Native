@@ -1,4 +1,4 @@
-# React-Native Mobile App - Albums 
+# React-Native Mobile App - Authenticator
 
 In this repository you can find the code from "The Complete React Native and Redux Course"
 The objective of this course is getting acquainted with the React-Native Platform as well as Redux
