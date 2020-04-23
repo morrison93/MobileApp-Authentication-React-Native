@@ -6,8 +6,12 @@ by getting an introdutory way of understanding about JSX, Components, Props, Sta
 
 
 ## ROADMAP:
-	1. Create/ Present a Mockup of the App Outline (presented in ./Mockups & Results)
-	2. Re-using Components from the album App, Header, Card/CardSection and Button:
+	1. Create/ Present a Mockup of the App Outline (presented in ./Mockups & Results);
+	2. Re-using Components from the album App, Header, Card/CardSection and Button;
+	3. Setting up Firebase and integrating with app;
+	4. Creation of the LoginForm component;
+		4.1. Introduced TextInputs
+		4.2. Making the Input reusable;
 
 
 ### How to run in Android device: 
