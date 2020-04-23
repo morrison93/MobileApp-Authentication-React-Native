@@ -12,7 +12,7 @@ class LoginForm extends Component {
 	onButtonPress () {
 		const { email, password } = this.state;
 
-		firebase.auth().signInWithEmailAndPassword(email, password);
+		firebase.auth().signInWithEmailAndPassword(email, password)
 			.catch(() =>{
 				firebase.auth().createUserWithEmailAndPassWord(email, password)
 					.catch(() => {
