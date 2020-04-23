@@ -12,7 +12,7 @@ by getting an introdutory way of understanding about JSX, Components, Props, Sta
 	4. Creation of the LoginForm component;
 		4.1. Introduced TextInputs
 		4.2. Making the Input reusable;
-
+		4.3. Added Password field with secure text entry; 
 
 ### How to run in Android device: 
 	1. Make Developer Option - On
